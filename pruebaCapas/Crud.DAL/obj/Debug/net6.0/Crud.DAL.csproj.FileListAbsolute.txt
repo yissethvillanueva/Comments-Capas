@@ -1,0 +1,17 @@
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\bin\Debug\net6.0\Crud.DAL.deps.json
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\bin\Debug\net6.0\Crud.DAL.runtimeconfig.json
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\bin\Debug\net6.0\Crud.DAL.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\bin\Debug\net6.0\Crud.DAL.pdb
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\bin\Debug\net6.0\Crud.Model.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\bin\Debug\net6.0\Crud.Model.pdb
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.csproj.AssemblyReference.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.AssemblyInfoInputs.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.AssemblyInfo.cs
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.csproj.CopyComplete
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\refint\Crud.DAL.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.pdb
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\Crud.DAL.genruntimeconfig.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.DAL\obj\Debug\net6.0\ref\Crud.DAL.dll

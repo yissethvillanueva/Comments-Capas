@@ -1,0 +1,14 @@
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\bin\Debug\net6.0\Crud.Model.deps.json
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\bin\Debug\net6.0\Crud.Model.runtimeconfig.json
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\bin\Debug\net6.0\Crud.Model.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\bin\Debug\net6.0\Crud.Model.pdb
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.csproj.AssemblyReference.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.AssemblyInfoInputs.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.AssemblyInfo.cs
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.csproj.CoreCompileInputs.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\refint\Crud.Model.dll
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.pdb
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\Crud.Model.genruntimeconfig.cache
+C:\Users\INTUR\source\repos\pruebaCapas\Crud.Model\obj\Debug\net6.0\ref\Crud.Model.dll
